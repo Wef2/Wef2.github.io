@@ -1,11 +1,12 @@
 # wef2.github.io
- 
+
  Front-end Development
- HTML5, CSS3, Twitter Bootstrap, JavaScript, JQuery, AngularJS Study
+ HTML5, CSS3, Twitter Bootstrap, JavaScript Study
 
-### Today I Learned
+### Who Am I?
 
-### Projects
+### Current Projects
+
+### Previous Projects
 
 ### Project Euler
-
