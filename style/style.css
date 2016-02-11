@@ -1,24 +1,29 @@
+h2{
+  margin:30px;
+}
+
 a{
-  color:black;
+  color:white;
 }
 
 a:hover{
+  color:white;
   text-decoration: none;
 }
 
 
+.color-white{
+  color:white;
+}
+
 .container-fluid {
-  margin-left: 100px;
-  margin-right: 100px;
   padding:100px;
 }
 
 .background-blue{
   background-color: #3399ff;
-  color: #FFFFFF;
 }
 
 .background-darkblue{
   background-color: #474e5d;
-  color: #ffffff;
 }
